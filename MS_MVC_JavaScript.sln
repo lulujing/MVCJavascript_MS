@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS_MVC_JavaScript_WEbPage", "MS_MVC_JavaScript_WEbPage\MS_MVC_JavaScript_WEbPage.csproj", "{E50EAD42-DD9E-457F-8147-D16FB05171B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF", "EF\EF.csproj", "{FC421739-00F7-4FAC-9D74-21FB75778AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E50EAD42-DD9E-457F-8147-D16FB05171B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50EAD42-DD9E-457F-8147-D16FB05171B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50EAD42-DD9E-457F-8147-D16FB05171B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50EAD42-DD9E-457F-8147-D16FB05171B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC421739-00F7-4FAC-9D74-21FB75778AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC421739-00F7-4FAC-9D74-21FB75778AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC421739-00F7-4FAC-9D74-21FB75778AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC421739-00F7-4FAC-9D74-21FB75778AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
